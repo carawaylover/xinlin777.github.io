@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I'm a final-year Ph.D. candidate at The Hong Kong Polytechnic University. I am on the 2025 - 2026 job market.
+My research interests lie in Development Economics, Regional and Real Estate Economics.
+Development Economics: Property rights, Human capital, Rural Entrepreneurship
+Regional and Real Estate Economics: Place-based policies, Land Economics and Policy
+
+You can find my CV here: [Xin Lin's Curriculum Vitae](../files/CV.pdf). If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: 22040745r@connect.polyu.hk
 
 A data-driven personal website
 ======
